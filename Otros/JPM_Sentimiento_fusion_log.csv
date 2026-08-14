@@ -1,0 +1,2 @@
+fecha,prediccion_mejorado,std_mejorado,ultimo_cierre,z_modelo,codigo_modelo,sentimiento_finbert,score_final,conclusion
+2026-08-13,366.21,4.19,365.18,0.2458,0,0.0592,0.0296,MANTENER -- ni las noticias ni el modelo dan una señal fuerte para comprar o vender.
